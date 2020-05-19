@@ -1,0 +1,11 @@
+2020-04-14 16:12:17,518 +0530 [main] INFO  (Log.java:25) - ****************************************************************************************
+2020-04-14 16:12:17,523 +0530 [main] INFO  (Log.java:27) - $$$$$$$$$$$$$$$$$$$$$         runtest       		 $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-04-14 16:12:17,526 +0530 [main] INFO  (Log.java:29) - ****************************************************************************************
+2020-04-14 16:12:25,537 +0530 [main] INFO  (NewsMailer.java:82) - Heading Number 1
+2020-04-14 16:12:25,540 +0530 [main] INFO  (NewsMailer.java:83) - HeadingName=Qatar economy seems to have entered new normal: Euler Hermes Date=April 09 2020
+2020-04-14 16:12:37,875 +0530 [main] INFO  (NewsMailer.java:102) - NewWindowHeadingName=Qatar economy seems to have entered new normal: Euler Hermes NewWindowDate=April 09 2020
+2020-04-14 16:12:38,374 +0530 [main] INFO  (NewsMailer.java:82) - Heading Number 2
+2020-04-14 16:12:38,374 +0530 [main] INFO  (NewsMailer.java:83) - HeadingName=Qatar real GDP edges down in Q4 on hydrocarbons, manufacturing: PSA Date=April 09 2020
+2020-04-14 16:12:45,016 +0530 [main] INFO  (NewsMailer.java:102) - NewWindowHeadingName=Qatar real GDP edges down in Q4 on hydrocarbons, manufacturing: PSA NewWindowDate=April 09 2020
+2020-04-14 16:12:47,553 +0530 [main] INFO  (NewsMailer.java:181) - **************2020/04/14 16:12:47**************
+2020-04-14 16:12:47,556 +0530 [main] INFO  (Log.java:38) - XXXXXXXXXXXXXXXXXXXXX         -E---N---D-                XXXXXXXXXXXXXXXXXXXXXX

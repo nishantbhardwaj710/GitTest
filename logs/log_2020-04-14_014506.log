@@ -1,0 +1,20 @@
+2020-04-14 13:45:11,758 +0530 [main] INFO  (Log.java:25) - ****************************************************************************************
+2020-04-14 13:45:11,777 +0530 [main] INFO  (Log.java:27) - $$$$$$$$$$$$$$$$$$$$$         runtest       		 $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-04-14 13:45:11,777 +0530 [main] INFO  (Log.java:29) - ****************************************************************************************
+2020-04-14 13:45:20,339 +0530 [main] INFO  (NewsMailer.java:86) - Heading Number 1
+2020-04-14 13:45:20,342 +0530 [main] INFO  (NewsMailer.java:87) - HeadingName=Qatar economy seems to have entered new normal: Euler Hermes Date=April 09 2020
+2020-04-14 13:45:33,803 +0530 [main] INFO  (NewsMailer.java:106) - NewWindowHeadingName=Qatar economy seems to have entered new normal: Euler Hermes NewWindowDate=April 09 2020
+2020-04-14 13:45:34,234 +0530 [main] INFO  (NewsMailer.java:86) - Heading Number 2
+2020-04-14 13:45:34,234 +0530 [main] INFO  (NewsMailer.java:87) - HeadingName=Qatar real GDP edges down in Q4 on hydrocarbons, manufacturing: PSA Date=April 09 2020
+2020-04-14 13:45:40,876 +0530 [main] INFO  (NewsMailer.java:106) - NewWindowHeadingName=Qatar real GDP edges down in Q4 on hydrocarbons, manufacturing: PSA NewWindowDate=April 09 2020
+2020-04-14 13:45:41,355 +0530 [main] INFO  (NewsMailer.java:86) - Heading Number 3
+2020-04-14 13:45:41,355 +0530 [main] INFO  (NewsMailer.java:87) - HeadingName=Qatar's GDP falls 0.6% year-on-year in fourth quarter Date=April 08 2020
+2020-04-14 13:47:29,962 +0530 [main] INFO  (NewsMailer.java:106) - NewWindowHeadingName=Qatar's GDP falls 0.6% year-on-year in fourth quarter | ZAWYA MENA Edition NewWindowDate=2020
+2020-04-14 13:47:30,363 +0530 [main] INFO  (NewsMailer.java:86) - Heading Number 4
+2020-04-14 13:47:30,365 +0530 [main] INFO  (NewsMailer.java:87) - HeadingName=Qatar’s robust economic performance to overpower COVID-19 out-turn: Ezdan Date=April 06 2020
+2020-04-14 13:48:25,248 +0530 [main] INFO  (NewsMailer.java:106) - NewWindowHeadingName=Qatar’s robust economic performance to overpower COVID-19 out-turn: Ezdan - The Peninsula Qatar NewWindowDate= 06 Apr 2020
+2020-04-14 13:48:25,599 +0530 [main] INFO  (NewsMailer.java:86) - Heading Number 5
+2020-04-14 13:48:25,604 +0530 [main] INFO  (NewsMailer.java:87) - HeadingName=Qatar able to afford more fiscal support amid Covid-19 crisis: Oxford Economics Date=April 05 2020
+2020-04-14 13:48:31,894 +0530 [main] INFO  (NewsMailer.java:106) - NewWindowHeadingName=Qatar able to afford more fiscal support amid Covid-19 crisis: Oxford Economics NewWindowDate=April 05 2020
+2020-04-14 13:48:32,220 +0530 [main] INFO  (NewsMailer.java:171) - **************2020/04/14 13:48:32**************
+2020-04-14 13:48:32,222 +0530 [main] INFO  (Log.java:38) - XXXXXXXXXXXXXXXXXXXXX         -E---N---D-                XXXXXXXXXXXXXXXXXXXXXX

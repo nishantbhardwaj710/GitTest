@@ -1,0 +1,73 @@
+2020-04-05 10:47:45,509 +0530 [main] INFO  (Log.java:25) - ****************************************************************************************
+2020-04-05 10:47:45,512 +0530 [main] INFO  (Log.java:27) - $$$$$$$$$$$$$$$$$$$$$         runtest       		 $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-04-05 10:47:45,513 +0530 [main] INFO  (Log.java:29) - ****************************************************************************************
+2020-04-05 10:47:53,296 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Qatar’s PPI shrinks 10.6% y-o-y in Feb on earnings fall in hydrocarbons Date=March 30 2020 1
+2020-04-05 10:48:00,862 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Qatar’s PPI shrinks 10.6% y-o-y in Feb on earnings fall in hydrocarbons NewWindowDate=March 30 2020
+2020-04-05 10:48:01,701 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Doha's inflation-adjusted growth seen better than world, Mena average: IIF Date=March 30 2020 2
+2020-04-05 10:48:08,213 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Doha's inflation-adjusted growth seen better than world, Mena average: IIF NewWindowDate=March 30 2020
+2020-04-05 10:48:09,023 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Qatar’s 'very strong' external and fiscal positions support ratings affirmation: S&P Date=March 28 2020 3
+2020-04-05 10:48:15,259 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Qatar’s 'very strong' external and fiscal positions support ratings affirmation: S&P NewWindowDate=March 28 2020
+2020-04-05 10:48:15,962 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Investment in health infrastructure pays off - Qatar's rankings soar Date=March 27 2020 4
+2020-04-05 10:48:21,856 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Investment in health infrastructure pays off - Qatar's rankings soar NewWindowDate=March 27 2020
+2020-04-05 10:48:22,519 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=‘Economy can weather impact of recession’ Date=March 26 2020 5
+2020-04-05 10:48:28,687 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=‘Economy can weather impact of recession’ NewWindowDate=March 26 2020
+2020-04-05 10:48:29,322 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Qatar trade surplus at QR13.5bn in February: PSA Date=March 25 2020 6
+2020-04-05 10:48:34,621 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Qatar trade surplus at QR13.5bn in February: PSA NewWindowDate=March 25 2020
+2020-04-05 10:48:35,145 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Islamic financing asset growth to continue to pick up in 2020: Moody’s Date=March 31 2020 7
+2020-04-05 10:48:40,356 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Islamic financing asset growth to continue to pick up in 2020: Moody’s NewWindowDate=March 31 2020
+2020-04-05 10:48:40,851 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Foreign institutions' selling pressure further drags Qatar Stock Exchange Date=March 30 2020 8
+2020-04-05 10:48:46,619 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Foreign institutions' selling pressure further drags Qatar Stock Exchange NewWindowDate=March 30 2020
+2020-04-05 10:48:47,118 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Increased selling by Gulf institutions drags QSE Date=March 29 2020 9
+2020-04-05 10:48:52,710 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Increased selling by Gulf institutions drags QSE NewWindowDate=March 29 2020
+2020-04-05 10:48:53,255 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Guarantees worth QR3bn allocated to local banks Date=March 29 2020 10
+2020-04-05 10:48:58,709 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Guarantees worth QR3bn allocated to local banks NewWindowDate=March 29 2020
+2020-04-05 10:48:59,203 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=QCB launches mobile payment system for 'cashless' transactions Date=March 28 2020 11
+2020-04-05 10:49:04,770 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=QCB launches mobile payment system for 'cashless' transactions NewWindowDate=March 28 2020
+2020-04-05 10:49:05,215 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Health expert lauds Qatar’s potential as regional medical tourism hub Date=March 28 2020 12
+2020-04-05 10:49:10,522 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Health expert lauds Qatar’s potential as regional medical tourism hub NewWindowDate=March 28 2020
+2020-04-05 10:49:10,964 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Non-Qatari insitutions turn increasingly profit takers on Qatar Stock Exchange Date=March 27 2020 13
+2020-04-05 10:49:17,154 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Non-Qatari insitutions turn increasingly profit takers on Qatar Stock Exchange NewWindowDate=March 27 2020
+2020-04-05 10:49:17,655 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Qatar shares edge down despite upbeat telecom, realty counters Date=March 26 2020 14
+2020-04-05 10:49:22,387 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Qatar shares edge down despite upbeat telecom, realty counters NewWindowDate=March 26 2020
+2020-04-05 10:49:22,992 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Qatar shares bounce back on global cues amid $2tn US stimulus plan Date=March 25 2020 15
+2020-04-05 10:49:28,632 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Qatar shares bounce back on global cues amid $2tn US stimulus plan NewWindowDate=March 25 2020
+2020-04-05 10:49:29,155 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Ministry launches self-assessment service in Qatar Date=March 31 2020 16
+2020-04-05 10:50:23,515 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Ministry launches self-assessment service in Qatar - The Peninsula Qatar NewWindowDate= 31 Mar 2020
+2020-04-05 10:50:24,022 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Startups under Qatar SportsTech develop devices to assess health, wellbeing Date=March 30 2020 17
+2020-04-05 10:50:28,866 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Startups under Qatar SportsTech develop devices to assess health, wellbeing NewWindowDate=March 30 2020
+2020-04-05 10:50:29,453 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Qatar's private healthcare providers fully ready to cooperate to fight COVID-19 Date=March 29 2020 18
+2020-04-05 10:51:23,483 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Qatar's private healthcare providers fully ready to cooperate to fight COVID-19 - The Peninsula Qatar NewWindowDate= 29 Mar 2020
+2020-04-05 10:51:23,959 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=New remotely accessible medical services launched Date=March 28 2020 19
+2020-04-05 10:51:28,622 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=New remotely accessible medical services launched NewWindowDate=March 28 2020
+2020-04-05 10:51:29,093 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName='Qatar's manufacturing sector geared up to meet shortages' Date=March 27 2020 20
+2020-04-05 10:51:33,913 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName='Qatar's manufacturing sector geared up to meet shortages' NewWindowDate=March 27 2020
+2020-04-05 10:51:34,529 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Qatar signs deals to raise strategic food reserves Date=March 26 2020 21
+2020-04-05 10:51:39,357 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Qatar signs deals to raise strategic food reserves NewWindowDate=March 26 2020
+2020-04-05 10:51:39,857 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Qatar realty sector sees 53 property deals exceeding QR328mn between March 15 and 19: Ezdan Date=March 26 2020 22
+2020-04-05 10:51:44,898 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Qatar realty sector sees 53 property deals exceeding QR328mn between March 15 and 19: Ezdan NewWindowDate=March 26 2020
+2020-04-05 10:51:45,363 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Qatar will make available any drug that is beneficial Date=March 25 2020 23
+2020-04-05 10:51:50,203 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Qatar will make available any drug that is beneficial NewWindowDate=March 25 2020
+2020-04-05 10:51:50,798 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Ashghal implements preventative measures to combat virus spread Date=March 31 2020 24
+2020-04-05 10:51:54,884 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Ashghal implements preventative measures to combat virus spread NewWindowDate=March 31 2020
+2020-04-05 10:51:55,451 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Qatar Airways resumes scheduled belly-hold cargo operations to China Date=March 30 2020 25
+2020-04-05 10:52:49,589 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Qatar Airways resumes scheduled belly-hold cargo operations to China - The Peninsula Qatar NewWindowDate= 30 Mar 2020
+2020-04-05 10:52:50,198 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Qatar’s supply chains and logistic systems: Confidence amid COVID-19 Date=March 30 2020 26
+2020-04-05 10:53:43,860 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Qatar’s supply chains and logistic systems: Confidence amid COVID-19 - The Peninsula Qatar NewWindowDate= 30 Mar 2020
+2020-04-05 10:53:44,236 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Ashghal fully upgrades Al Rufaa Intersection, opens it for traffic Date=March 29 2020 27
+2020-04-05 10:54:38,382 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Ashghal fully upgrades Al Rufaa Intersection, opens it for traffic - The Peninsula Qatar NewWindowDate= 29 Mar 2020
+2020-04-05 10:54:38,775 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Telecoms sector helps reduce direct communication between individuals Date=March 28 2020 28
+2020-04-05 10:54:43,212 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Telecoms sector helps reduce direct communication between individuals NewWindowDate=March 28 2020
+2020-04-05 10:54:44,092 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Sana Intersection fully upgraded and opened to traffic: Ashghal Date=March 28 2020 29
+2020-04-05 10:54:48,534 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Sana Intersection fully upgraded and opened to traffic: Ashghal NewWindowDate=March 28 2020
+2020-04-05 10:54:49,069 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Closure on Airport Street Date=March 26 2020 30
+2020-04-05 10:54:53,340 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Closure on Airport Street NewWindowDate=March 26 2020
+2020-04-05 10:54:53,770 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Ashghal opens new interchange Date=March 26 2020 31
+2020-04-05 10:54:57,953 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Ashghal opens new interchange NewWindowDate=March 26 2020
+2020-04-05 10:54:58,419 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Interchange linking North, Central Lusail opened Date=March 25 2020 32
+2020-04-05 10:55:03,470 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Interchange linking North, Central Lusail opened NewWindowDate=March 25 2020
+2020-04-05 10:55:04,008 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Aster introduces online consultation, other measures to prevent Covid-19 Date=March 25 2020 33
+2020-04-05 10:55:08,617 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Aster introduces online consultation, other measures to prevent Covid-19 NewWindowDate=March 25 2020
+2020-04-05 10:55:09,062 +0530 [main] INFO  (NewsMailer.java:70) - HeadingName=Ashghal remotely opens the last interchange on Al Khor Road project Date=March 25 2020 34
+2020-04-05 10:56:02,652 +0530 [main] INFO  (NewsMailer.java:87) - NewWindowHeadingName=Ashghal remotely opens the last interchange on Al Khor Road project - The Peninsula Qatar NewWindowDate= 25 Mar 2020
+2020-04-05 10:56:03,271 +0530 [main] INFO  (NewsMailer.java:145) - **************2020/04/05 10:56:03**************
+2020-04-05 10:56:03,272 +0530 [main] INFO  (Log.java:38) - XXXXXXXXXXXXXXXXXXXXX         -E---N---D-                XXXXXXXXXXXXXXXXXXXXXX

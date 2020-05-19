@@ -1,0 +1,138 @@
+2020-04-14 13:27:13,532 +0530 [main] INFO  (Log.java:25) - ****************************************************************************************
+2020-04-14 13:27:13,537 +0530 [main] INFO  (Log.java:27) - $$$$$$$$$$$$$$$$$$$$$         runtest       		 $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-04-14 13:27:13,538 +0530 [main] INFO  (Log.java:29) - ****************************************************************************************
+2020-04-14 13:27:24,342 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Qatar economy seems to have entered new normal: Euler Hermes Date=April 09 2020 1
+2020-04-14 13:27:35,016 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Qatar economy seems to have entered new normal: Euler Hermes NewWindowDate=April 09 2020
+2020-04-14 13:27:35,512 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Qatar real GDP edges down in Q4 on hydrocarbons, manufacturing: PSA Date=April 09 2020 2
+2020-04-14 13:27:41,782 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Qatar real GDP edges down in Q4 on hydrocarbons, manufacturing: PSA NewWindowDate=April 09 2020
+2020-04-14 13:27:42,205 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Qatar's GDP falls 0.6% year-on-year in fourth quarter Date=April 08 2020 3
+2020-04-14 13:29:31,634 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Qatar's GDP falls 0.6% year-on-year in fourth quarter | ZAWYA MENA Edition NewWindowDate=2020
+2020-04-14 13:29:32,008 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Qatar’s robust economic performance to overpower COVID-19 out-turn: Ezdan Date=April 06 2020 4
+2020-04-14 13:30:26,934 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Qatar’s robust economic performance to overpower COVID-19 out-turn: Ezdan - The Peninsula Qatar NewWindowDate= 06 Apr 2020
+2020-04-14 13:30:27,287 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Qatar able to afford more fiscal support amid Covid-19 crisis: Oxford Economics Date=April 05 2020 5
+2020-04-14 13:30:33,810 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Qatar able to afford more fiscal support amid Covid-19 crisis: Oxford Economics NewWindowDate=April 05 2020
+2020-04-14 13:30:34,241 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=QC Chairman: Private sector's performance in crisis proves its successful partnership with the government in the development process Date=April 05 2020 6
+2020-04-14 13:30:44,351 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=QC Chairman: Private sector's performance in crisis proves its successful partnership with the government in the development process NewWindowDate=April 05 2020
+2020-04-14 13:30:44,775 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Qatar-US trade volume stood at QR1.66bn in January Date=April 05 2020 7
+2020-04-14 13:31:38,688 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Qatar-US trade volume stood at QR1.66bn in January - The Peninsula Qatar NewWindowDate= 05 Apr 2020
+2020-04-14 13:31:39,041 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=S&P affirms QIB rating at ‘A-/A-2’ with stable outlook Date=April 04 2020 8
+2020-04-14 13:31:44,264 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=S&P affirms QIB rating at ‘A-/A-2’ with stable outlook NewWindowDate=April 04 2020
+2020-04-14 13:31:44,672 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Qatari Businessmen Association mulls fund to support troubled companies amid COVID-19 pandemic Date=April 02 2020 9
+2020-04-14 13:32:38,376 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Qatari Businessmen Association mulls fund to support troubled companies amid COVID-19 pandemic - The Peninsula Qatar NewWindowDate= 02 Apr 2020
+2020-04-14 13:32:38,732 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Qatar Chamber’s ‘Takatuf’ initiative gets positive response from businessmen Date=April 01 2020 10
+2020-04-14 13:32:45,552 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Qatar Chamber’s ‘Takatuf’ initiative gets positive response from businessmen NewWindowDate=April 01 2020
+2020-04-14 13:32:45,975 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Foreign, Gulf funds’ outlook extends bearish run on QSE Date=April 14 2020 11
+2020-04-14 13:32:58,926 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Foreign, Gulf funds’ outlook extends bearish run on QSE NewWindowDate=April 14 2020
+2020-04-14 13:32:59,317 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=QSE key index settles below 8,900 levels on bearish outlook Date=April 13 2020 12
+2020-04-14 13:33:04,274 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=QSE key index settles below 8,900 levels on bearish outlook NewWindowDate=April 13 2020
+2020-04-14 13:33:04,675 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=QNB posts QR3.6bn net profit in first quarter Date=April 12 2020 13
+2020-04-14 13:33:11,216 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=QNB posts QR3.6bn net profit in first quarter NewWindowDate=April 12 2020
+2020-04-14 13:33:11,662 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=QNB posts modest rise in Q1 profit as loan loss charge rises Date=April 12 2020 14
+2020-04-14 13:34:57,726 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=QNB posts modest rise in Q1 profit as loan loss charge rises | ZAWYA MENA Edition NewWindowDate=2020
+2020-04-14 13:34:58,107 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Qatar takes lead in bond issue; Gulf countries may follow suit: Oxford Economics Date=April 11 2020 15
+2020-04-14 13:35:03,188 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Qatar takes lead in bond issue; Gulf countries may follow suit: Oxford Economics NewWindowDate=April 11 2020
+2020-04-14 13:35:03,659 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=QSE surges 531 points on slowdown in Covid-19-related fatalities Date=April 10 2020 16
+2020-04-14 13:35:10,099 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=QSE surges 531 points on slowdown in Covid-19-related fatalities NewWindowDate=April 10 2020
+2020-04-14 13:35:10,550 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=QSE snaps four days of bullish run to settle below 9,000 points Date=April 09 2020 17
+2020-04-14 13:35:17,777 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=QSE snaps four days of bullish run to settle below 9,000 points NewWindowDate=April 09 2020
+2020-04-14 13:35:18,213 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Qatar issues $10bn bonds in international debt markets Date=April 08 2020 18
+2020-04-14 13:35:23,891 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Qatar issues $10bn bonds in international debt markets NewWindowDate=April 08 2020
+2020-04-14 13:35:24,307 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Qatar banks post 13% jump in domestic credit to QR1tn at end of February: QCB Date=April 06 2020 19
+2020-04-14 13:35:33,394 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Qatar banks post 13% jump in domestic credit to QR1tn at end of February: QCB NewWindowDate=April 06 2020
+2020-04-14 13:35:33,840 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=QSE jumps 222 points on across-the-board buying Date=April 06 2020 20
+2020-04-14 13:35:42,816 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=QSE jumps 222 points on across-the-board buying NewWindowDate=April 06 2020
+2020-04-14 13:35:43,227 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=QDB launches National Guarantee Programme to back private firms Date=April 05 2020 21
+2020-04-14 13:35:47,922 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=QDB launches National Guarantee Programme to back private firms NewWindowDate=April 05 2020
+2020-04-14 13:35:48,310 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Growing Islamic banking and finance in Qatar Date=April 04 2020 22
+2020-04-14 13:36:42,039 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Growing Islamic banking and finance in Qatar - The Peninsula Qatar NewWindowDate= 04 Apr 2020
+2020-04-14 13:36:42,390 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=QSE closes in the negative as domestic funds turn bearish Date=April 03 2020 23
+2020-04-14 13:36:47,432 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=QSE closes in the negative as domestic funds turn bearish NewWindowDate=April 03 2020
+2020-04-14 13:36:47,983 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Banking and industrials stocks help Qatar bourse jump 3.21% Date=April 02 2020 24
+2020-04-14 13:36:53,296 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Banking and industrials stocks help Qatar bourse jump 3.21% NewWindowDate=April 02 2020
+2020-04-14 13:36:53,777 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=QU graduate develops first critical appraisal tool in pharmacokinetics Date=April 14 2020 25
+2020-04-14 13:37:18,850 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=QU graduate develops first critical appraisal tool in pharmacokinetics NewWindowDate=April 14 2020
+2020-04-14 13:37:19,258 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=HMC's virtual consultation offers access to 14 specialties Date=April 13 2020 26
+2020-04-14 13:37:24,133 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=HMC's virtual consultation offers access to 14 specialties NewWindowDate=April 13 2020
+2020-04-14 13:37:24,527 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Qatar agriculture sector not affected by Covid-19, boosting food production Date=April 12 2020 27
+2020-04-14 13:37:31,799 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Qatar agriculture sector not affected by Covid-19, boosting food production NewWindowDate=April 12 2020
+2020-04-14 13:37:32,403 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Qatar Steel first company in Mideast to achieve '1 Rosette' rating for good performance Date=April 12 2020 28
+2020-04-14 13:37:45,796 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Qatar Steel first company in Mideast to achieve '1 Rosette' rating for good performance NewWindowDate=April 12 2020
+2020-04-14 13:37:46,194 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=MoPH training around 35,000 volunteers to help fight coronavirus Date=April 06 2020 29
+2020-04-14 13:37:50,609 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=MoPH training around 35,000 volunteers to help fight coronavirus NewWindowDate=April 06 2020
+2020-04-14 13:37:51,010 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Govt measures to bolster Qatar's real estate sector: Ezdan Date=April 06 2020 30
+2020-04-14 13:37:56,130 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Govt measures to bolster Qatar's real estate sector: Ezdan NewWindowDate=April 06 2020
+2020-04-14 13:37:56,524 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Doha Clinic Hospital introduces counselling hotline Date=April 05 2020 31
+2020-04-14 13:38:02,034 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Doha Clinic Hospital introduces counselling hotline NewWindowDate=April 05 2020
+2020-04-14 13:38:02,442 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=QCS launches ‘Thyroid Vitality’ campaign through online platforms Date=April 05 2020 32
+2020-04-14 13:38:08,287 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=QCS launches ‘Thyroid Vitality’ campaign through online platforms NewWindowDate=April 05 2020
+2020-04-14 13:38:08,716 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Respiratory patients urged to take extra precautions Date=April 04 2020 33
+2020-04-14 13:38:14,303 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Respiratory patients urged to take extra precautions NewWindowDate=April 04 2020
+2020-04-14 13:38:14,716 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Qatar participates in WHO regional meet on Covid-19 Date=April 03 2020 34
+2020-04-14 13:38:19,623 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Qatar participates in WHO regional meet on Covid-19 NewWindowDate=April 03 2020
+2020-04-14 13:38:19,992 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Al-Ahli Hospital forms COVID-19 taskforce to implement strategic measures and limit the spread of pandemic Date=April 02 2020 35
+2020-04-14 13:39:14,875 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Al-Ahli Hospital forms COVID-19 taskforce to implement strategic measures and limit the spread of pandemic - The Peninsula Qatar NewWindowDate= 02 Apr 2020
+2020-04-14 13:39:15,233 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Qatar to introduce rapid test for Covid-19 soon Date=April 01 2020 36
+2020-04-14 13:39:20,946 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Qatar to introduce rapid test for Covid-19 soon NewWindowDate=April 01 2020
+2020-04-14 13:39:21,332 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Qatar launches remote healthcare services Date=April 01 2020 37
+2020-04-14 13:39:26,640 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Qatar launches remote healthcare services NewWindowDate=April 01 2020
+2020-04-14 13:39:27,046 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Industrial Area intersections opened Date=April 13 2020 38
+2020-04-14 13:39:31,678 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Industrial Area intersections opened NewWindowDate=April 13 2020
+2020-04-14 13:39:32,047 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Online grocery stores hike delivery capacity Date=April 13 2020 39
+2020-04-14 13:39:37,394 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Online grocery stores hike delivery capacity NewWindowDate=April 13 2020
+2020-04-14 13:39:37,793 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Industrial Area intersections opened Date=April 13 2020 40
+2020-04-14 13:39:43,248 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Industrial Area intersections opened NewWindowDate=April 13 2020
+2020-04-14 13:39:43,651 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Home delivery of medicines extended to all HMC patients Date=April 12 2020 41
+2020-04-14 13:39:50,826 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Home delivery of medicines extended to all HMC patients NewWindowDate=April 12 2020
+2020-04-14 13:39:51,197 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Qatar Airways Cargo transports 50,000,000kg medical supplies, aid relief last month Date=April 08 2020 42
+2020-04-14 13:39:57,300 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Qatar Airways Cargo transports 50,000,000kg medical supplies, aid relief last month NewWindowDate=April 08 2020
+2020-04-14 13:39:57,686 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Strict measures in place at Qatar’s ports Date=April 07 2020 43
+2020-04-14 13:40:02,834 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Strict measures in place at Qatar’s ports NewWindowDate=April 07 2020
+2020-04-14 13:40:03,225 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Upgraded road, intersection open at Al Rayyan area Date=April 06 2020 44
+2020-04-14 13:40:09,150 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Upgraded road, intersection open at Al Rayyan area NewWindowDate=April 06 2020
+2020-04-14 13:40:09,546 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Ashghal opens new underpass and bridge on Mesaimeer Interchange Date=April 05 2020 45
+2020-04-14 13:40:17,358 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Ashghal opens new underpass and bridge on Mesaimeer Interchange NewWindowDate=April 05 2020
+2020-04-14 13:40:17,867 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Q-Tickets launches free delivery service to help combat Covid-19 Date=April 05 2020 46
+2020-04-14 13:40:25,990 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Q-Tickets launches free delivery service to help combat Covid-19 NewWindowDate=April 05 2020
+2020-04-14 13:40:26,383 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Kahramaa plans to open 100 electric car charging stations annually Date=April 04 2020 47
+2020-04-14 13:40:33,168 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Kahramaa plans to open 100 electric car charging stations annually NewWindowDate=April 04 2020
+2020-04-14 13:40:33,562 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Qatar Airways to operate 19 weekly freight-only flights through India Date=April 03 2020 48
+2020-04-14 13:40:39,052 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Qatar Airways to operate 19 weekly freight-only flights through India NewWindowDate=April 03 2020
+2020-04-14 13:40:39,445 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Ashghal project clocks up one million man-hours without loss time injury Date=April 02 2020 49
+2020-04-14 13:40:44,415 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Ashghal project clocks up one million man-hours without loss time injury NewWindowDate=April 02 2020
+2020-04-14 13:40:44,801 +0530 [main] INFO  (NewsMailer.java:85) - HeadingName=Qatar ports post robust expansion in cargo, container volumes in March Date=April 01 2020 50
+2020-04-14 13:40:49,761 +0530 [main] INFO  (NewsMailer.java:104) - NewWindowHeadingName=Qatar ports post robust expansion in cargo, container volumes in March NewWindowDate=April 01 2020
+2020-04-14 13:40:49,945 +0530 [main] ERROR (Log.java:60) - Test failed due to : 
+java.io.FileNotFoundException: .\result\NewsMailer_report.xlsx (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:220)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:158)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:113)
+	at com.magic.utils.ExcelUtil.readColumnData(ExcelUtil.java:418)
+	at com.magic.pages.NewsMailer.validatecell(NewsMailer.java:154)
+	at com.magic.pages.NewsMailer.datareading(NewsMailer.java:132)
+	at com.magic.test.NewsMailerTest.runtest(NewsMailerTest.java:24)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
